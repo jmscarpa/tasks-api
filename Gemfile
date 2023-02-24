@@ -9,3 +9,4 @@ gem "puma", "~> 5.0"
 gem "jbuilder"
 gem "bootsnap", require: false
 gem "dotenv-rails"
+gem 'rack-cors', '1.1.1'
